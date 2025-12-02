@@ -55,3 +55,8 @@ Thumbs.db
 _ide_helper.php
 *.ide-helper
 .phpstorm.meta.php
+*.sqlite
+/bootstrap/cache/*
+*.sqlite
+/bootstrap/cache/*
+*.cache.php

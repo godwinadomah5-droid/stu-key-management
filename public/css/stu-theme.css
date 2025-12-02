@@ -1,0 +1,58 @@
+/* STU Key Management - Custom Green Theme */
+.stu-gradient-bg {
+    background: linear-gradient(135deg, #1a5c36 0%, #2e7d5a 100%);
+}
+
+.btn-stu-primary {
+    background-color: #1a5c36;
+    color: white;
+}
+
+.btn-stu-primary:hover {
+    background-color: #0f3d23;
+}
+
+.btn-stu-outline {
+    border: 2px solid #1a5c36;
+    color: #1a5c36;
+    background: transparent;
+}
+
+.btn-stu-outline:hover {
+    background-color: #1a5c36;
+    color: white;
+}
+
+.stu-primary-color {
+    color: #1a5c36;
+}
+
+.stu-bg-primary {
+    background-color: #1a5c36;
+}
+
+.stu-border-primary {
+    border-color: #1a5c36;
+}
+
+/* Card styling */
+.card-stu {
+    border: 1px solid #e2e8f0;
+    border-radius: 0.5rem;
+    background: white;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
+}
+
+.card-stu:hover {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    border-color: #2e7d5a;
+}
+
+.card-stu-header {
+    background: linear-gradient(135deg, #1a5c36 0%, #2e7d5a 100%);
+    color: white;
+    padding: 1rem;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
